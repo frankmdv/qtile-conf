@@ -19,7 +19,7 @@ volumeicon &
 picom --no-vsync &
 
 # Wallpaper
-feh --bg-scale ~/Images/Wallpapers/archPurple.webp
+feh --bg-scale ~/Images/Wallpapers/nordArch.png
 
 # Sincronizar reloj
 timedatectl set-ntp 1
