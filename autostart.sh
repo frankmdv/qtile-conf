@@ -19,7 +19,7 @@ volumeicon &
 picom --no-vsync &
 
 # Wallpaper
-feh --bg-scale ~/Images/Wallpapers/nordArch.png
+feh --bg-scale ~/Images/Wallpapers/detresNord_1920.jpg --bg-scale ~/Images/Wallpapers/detresNord_1920.jpg --bg-scale ~/Images/Wallpapers/detresNord_1680.jpg
 
 # Sincronizar reloj
 timedatectl set-ntp 1
